@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="All Places" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2103c7e6-16bd-49b4-b870-38cabe5fef3f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Coding Exercise\exportToHTML" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>eleman</find>
+      <find>create</find>
+      <find>input</find>
+      <find>now</find>
+      <find>Şu_an</find>
+      <find>doviz</find>
+      <find>birinci</find>
+      <find>ikinci</find>
+      <find>miktar</find>
+      <find>veri</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Advanced modules" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Functions/Greatest Common Divisor.py" />
+        <option value="$PROJECT_DIR$/Functions/Determining sub-mutliples of a number.py" />
+        <option value="$PROJECT_DIR$/Functions/Least Common Multiple.py" />
+        <option value="$PROJECT_DIR$/Functions/Result.py" />
+        <option value="$PROJECT_DIR$/Functions/Defining Prime Number.py" />
+        <option value="$PROJECT_DIR$/Functions/Resultasmodule.py" />
+        <option value="$PROJECT_DIR$/Functions/Defining Prime Number - Kopya.py" />
+        <option value="$PROJECT_DIR$/Functions/Way of Reading.py" />
+        <option value="$PROJECT_DIR$/Object Oriented/User.py" />
+        <option value="$PROJECT_DIR$/Object Oriented/adasdasd.py" />
+        <option value="$PROJECT_DIR$/Modules/Modules/adasdsa.py" />
+        <option value="$PROJECT_DIR$/Object Oriented/App Owner.py" />
+        <option value="$PROJECT_DIR$/Modules/Number Estimation.py" />
+        <option value="$PROJECT_DIR$/Object Oriented/NM HW1.py" />
+        <option value="$PROJECT_DIR$/Modules/Modules/deneme.py" />
+        <option value="$PROJECT_DIR$/Object Oriented/asd.py" />
+        <option value="$PROJECT_DIR$/Embaded Functions/Filter Function.py" />
+        <option value="$PROJECT_DIR$/Embaded Functions/booleanPrime.py" />
+        <option value="$PROJECT_DIR$/Embaded Functions/FilterFunction.py" />
+        <option value="$PROJECT_DIR$/Embaded Functions/map&amp;reduce&amp;filterFuntions.py" />
+        <option value="$PROJECT_DIR$/Embaded Functions/zip.py" />
+        <option value="$PROJECT_DIR$/Embaded Functions/enumerateFoncution.py" />
+        <option value="$PROJECT_DIR$/Embaded Functions/AllandAnyFunctions.py" />
+        <option value="$PROJECT_DIR$/Advanced Data Structures and Object/bin-hex-abs-round-max-sum-pow-Functions.py" />
+        <option value="$PROJECT_DIR$/Advanced Data Structures and Object/AdvancedStrings&amp;StringMethods.py" />
+        <option value="$PROJECT_DIR$/Advanced Data Structures and Object/AdvancedSets.py" />
+        <option value="$PROJECT_DIR$/Advanced Data Structures and Object/AdvancedListsAndItsMethods.py" />
+        <option value="$PROJECT_DIR$/SQLite Database/Library.py" />
+        <option value="$PROJECT_DIR$/../../../SQLite Database/Database.py" />
+        <option value="$PROJECT_DIR$/SQLite Database/Exercise 1 - FIFA/Database.py" />
+        <option value="$PROJECT_DIR$/SQLite Database/Exercise 1 - Student Info's/Exercise 1 - Processor" />
+        <option value="$PROJECT_DIR$/SQLite Database/Exercise 1 - Student Info's/Exercise 1 - Processor.py" />
+        <option value="$PROJECT_DIR$/SQLite Database/Exercise 1 - Student Info's/Processor.py" />
+        <option value="$PROJECT_DIR$/SQLite Database/Exercise 1 - Student Info's/Database.py" />
+        <option value="$PROJECT_DIR$/SQLite Database/BYS/Database.py" />
+        <option value="$PROJECT_DIR$/Advanced Functions &amp; Decorators/EmbadedFunctionsandFunctionParameters.py" />
+        <option value="$PROJECT_DIR$/Advanced Functions &amp; Decorators/InterbeddedFunctionsandFunctionParameters.py" />
+        <option value="$PROJECT_DIR$/Advanced Functions &amp; Decorators/Decorators.py" />
+        <option value="$PROJECT_DIR$/Iteratos &amp; Generators/Creating_Using_Iterators.py" />
+        <option value="$PROJECT_DIR$/Iteratos &amp; Generators/Iterator_Exercise.py" />
+        <option value="$PROJECT_DIR$/Iteratos &amp; Generators/Creating_and_using_Generators.py" />
+        <option value="$PROJECT_DIR$/Advanced modules/machine epsilon.py" />
+        <option value="$PROJECT_DIR$/Question 8.py" />
+        <option value="$PROJECT_DIR$/Advanced modules/Datetime_Module.py" />
+        <option value="$PROJECT_DIR$/Advanced modules/os_module.py" />
+        <option value="$PROJECT_DIR$/Advanced modules/Json.py" />
+        <option value="$PROJECT_DIR$/Advanced modules/sntb.py" />
+        <option value="$PROJECT_DIR$/Advanced modules/sntp.py" />
+        <option value="$PROJECT_DIR$/Advanced modules/request-beautifulsoap4_modules.py" />
+        <option value="$PROJECT_DIR$/Advanced modules/asd.py" />
+        <option value="$PROJECT_DIR$/Advanced modules/homeworkwithos.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="155" />
+    <option name="width" value="1620" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Coding Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding Exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="Advanced modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory&#10;repository" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Fatih\Desktop\Final\My improvements\Coding Exercise\Functions" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Fatih\Desktop\Final\My improvements\Coding Exercise\Functions" />
+      <recent name="C:\Users\Fatih\Desktop\Coding Exercise\Basic Data Structures" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.homeworkwithos">
+    <configuration name="asd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coding Exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced modules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced modules/asd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homeworkwithos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coding Exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced modules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced modules/homeworkwithos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="os_module" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coding Exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced modules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced modules/os_module.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="request-beautifulsoap4_modules" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coding Exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced modules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced modules/request-beautifulsoap4_modules.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sntb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coding Exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced modules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced modules/sntb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.os_module" />
+      <item itemvalue="Python.request-beautifulsoap4_modules" />
+      <item itemvalue="Python.sntb" />
+      <item itemvalue="Python.asd" />
+      <item itemvalue="Python.homeworkwithos" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.homeworkwithos" />
+        <item itemvalue="Python.asd" />
+        <item itemvalue="Python.request-beautifulsoap4_modules" />
+        <item itemvalue="Python.os_module" />
+        <item itemvalue="Python.sntb" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2103c7e6-16bd-49b4-b870-38cabe5fef3f" name="Default Changelist" comment="" />
+      <created>1563709491297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563709491297</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16733068" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32991204" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993395" weight="0.43333334" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39855072" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289855" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006605" side_tool="true" weight="0.24128312" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289855" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32914925" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Embaded Functions/boolean prime.py" />
+    <entry file="file://$PROJECT_DIR$/Embaded Functions/Filter Function.py" />
+    <entry file="file://$PROJECT_DIR$/Embaded Functions/FilterFunction.py" />
+    <entry file="file://$PROJECT_DIR$/Embaded Functions/booleanPrime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Embaded Functions/zip.py" />
+    <entry file="file://$PROJECT_DIR$/Embaded Functions/zip function.py" />
+    <entry file="file://$PROJECT_DIR$/Embaded Functions/zipFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Embaded Functions/enumerateFoncution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Embaded Functions/AllandAnyFunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="64" lean-forward="true" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Data Structures and Object/bin-hex-abs-round-max-sum-pow-Functions.py" />
+    <entry file="file://C:/Anaconda3/Lib/site-packages/sqlalchemy/ext/mutable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="875" column="22" lean-forward="true" selection-start-line="875" selection-start-column="22" selection-end-line="875" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="679" column="28" lean-forward="true" selection-start-line="679" selection-start-column="28" selection-end-line="679" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/1013586911/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="4440" selection-start-line="4440" selection-end-line="4441" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Data Structures and Object/AdvancedSets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Data Structures and Object/AdvancedNumberDataTypes-bin-hex-abs-round-max-sum-pow-Functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-578">
+          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQLite Database/Library.py" />
+    <entry file="file://$PROJECT_DIR$/../../../SQLite Database/Database.py" />
+    <entry file="file://$PROJECT_DIR$/SQLite Database/Exercise 1 - FIFA/Database.py" />
+    <entry file="file://$PROJECT_DIR$/Advanced Data Structures and Object/AdvancedListsAndItsMethods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Embaded Functions/map&amp;reduce&amp;filterFuntions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-58">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <element signature="e#978#1008#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQLite Database/Exercise 1 - Student Info's/Exercise 1 - Processor" />
+    <entry file="file://$PROJECT_DIR$/SQLite Database/Exercise 1 - Student Info's/Exercise 1 - Processor.py" />
+    <entry file="file://$PROJECT_DIR$/SQLite Database/Lecture - SQLite Database/Database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQLite Database/Exercise 1 - Student Info's/Processor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQLite Database/Exercise 1 - Student Info's/Database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="69" column="46" selection-start-line="69" selection-start-column="2" selection-end-line="69" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Functions &amp; Decorators/EmbadedFunctionsandFunctionsParameters.py" />
+    <entry file="file://$PROJECT_DIR$/Advanced Functions &amp; Decorators/asd.py" />
+    <entry file="file://$PROJECT_DIR$/Advanced Functions &amp; Decorators/EmbadedFunctionsandFunctionParameters.py" />
+    <entry file="file://$PROJECT_DIR$/SQLite Database/BYS/Database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-580">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQLite Database/BYS/Processor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Functions &amp; Decorators/InterbeddedFunctionsandFunctionParameters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Functions &amp; Decorators/Decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/DefiningPrimeNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iteratos &amp; Generators/Iterator_Exercise.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python/Sifirdan-Ileri-Seviyeye-Python-Programlama-master/İleri Seviye Modüller/Videolarda Kullanılan Kodlar/DateTime Modülü/DateTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced modules/machine epsilon.py" />
+    <entry file="file://$PROJECT_DIR$/Conditional Statement/Greatest Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-173" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditional Statement/Hesap Makinesi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditional Statement/4gen or 3gen.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Question 8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced modules/Datetime_Module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="64" column="81" selection-start-line="64" selection-start-column="81" selection-end-line="64" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iteratos &amp; Generators/Creating_and_using_Generators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="82" column="17" selection-start-line="82" selection-start-column="17" selection-end-line="82" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iteratos &amp; Generators/Creating_Using_Iterators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Data Structures and Object/AdvancedStrings&amp;StringMethods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="69" column="27" lean-forward="true" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced modules/Json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="39" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced modules/sntb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced modules/sntp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced modules/asd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced modules/request-beautifulsoap4_modules.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced modules/homeworkwithos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced modules/os_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
