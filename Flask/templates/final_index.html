@@ -1,0 +1,49 @@
+{% extends "final_layout.html" %}
+
+
+{% block body %}
+<div class="jumbotron text-center"> 
+    <h3>Welcome</h3>
+    <p>This is a test</p>
+    </div>    
+{% endblock body %}
+
+<!-- ---------------To see blocks easier-------------------  -->
+
+{% block bigtitle %}
+<h3>Let's Begin</h3>
+<hr>
+{% endblock bigtitle %}
+
+<!-- Actually there is necessarily to split to different blocks here but I used them for just practice inheritance  -->
+
+{% block plain %}
+<p>navbar does not working properly</p>
+<hr>
+<br>
+<h5>There is application of if statment below</h5>
+{% if condition == 1 %}
+<p>condition is >> 1 </p>
+{% elif condition == 2 %}
+<p>condition is >> 2 </p>
+{% else %}
+<p>condition is unvalid >> ??</p>
+{% endif %}
+<hr>
+<br>
+<h5>There is application of for loop below</h5>
+<ul>
+
+{% for element in list %}
+    <li>{{element}}</li>
+{% endfor %}
+
+<hr>
+<h5>One more example is coming</h5>
+{% for part in info %}
+    <li>ID : {{part.id}} ---- Name : {{part.Name}} ---- Age : {{part.Age}} ---- Platform : {{part.platform}}</li>
+{% endfor %}
+
+</ul>
+{% endblock plain %}
+

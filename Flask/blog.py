@@ -12,10 +12,6 @@ def index():
     car["Serie"] = "GLA 200"
     car["Configuration"] = "AMG"
 
-
-
-
-
     return render_template("index.html",number = no, number_2 = no_2,car = car)
 
 
@@ -24,9 +20,6 @@ def about():
 
     
     return "This is FİNAL"
-
-
-
 
 if __name__ == "__main__" :
 
