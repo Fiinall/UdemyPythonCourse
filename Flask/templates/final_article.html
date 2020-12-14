@@ -1,0 +1,29 @@
+{% extends "final_layout.html" %}
+
+{% block body %}
+
+{% if article %}
+
+<h4>{{article.title}}</h4>
+<hr>
+Author: {{article.author}}
+<hr>
+Date: {{article.created_date}}
+<hr>
+{{article.content}}
+<!--
+    If CKEditor is used, content of article is not in the form of html.
+    So it is not shown in page.
+    To solve this problem use;
+    .... |safe.....
+    Exapmle is below; 
+    {{article.content |safe}}-->
+
+{% else %}
+
+<div class = "alert alert-warning">There is no such article!</div>
+
+{% endif %}
+
+{% endblock body %}
+

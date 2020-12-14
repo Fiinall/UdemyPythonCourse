@@ -1,0 +1,44 @@
+{% extends "final_layout.html" %}
+
+{% block body %}
+
+<h3>Control Pannel</h3>
+<small>Welcome, {{session["username"]}}</small>
+<hr>
+<a href="addarticle" class="btn btn-danger">Add Article</a>
+{% if articles %}
+<table class="table table-hover">
+    <thead>
+      <tr>
+        <th scope="col">ID</th>
+        <th scope="col">Title</th>
+        <th scope="col">Author</th>
+        <th scope="col">Date</th>
+        <th scope="col"></th>
+        <th scope="col"></th>
+      </tr>
+    </thead>
+    <tbody>
+        {% for article in articles  %}
+        <th scope="row">{{article.id}}</th>
+        <td><a href="/article/{{article.id}}">{{article.title}}</a></td>
+        <td>{{article.author}}</td>
+        <td>{{article.created_date}}</td>
+        <td><a href="/update/{{article.id}}" class="btn btn-info">Update</a></td>
+        <td><a href="/delete/{{article.id}}" class="btn btn-danger">Delete</a></td>
+        </tr>
+        {% endfor %}
+
+      <!--
+        <th scope="row">3</th>
+        <td colspan="2">Larry the Bird</td>
+        <td>@twitter</td>
+      </tr> -->
+    </tbody>
+  </table>
+{% else %}
+<br><br>
+<div class = "alert alert-danger">You have not written an article yet!</div>
+{% endif %}
+{% endblock body %}
+
