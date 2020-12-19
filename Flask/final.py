@@ -41,7 +41,7 @@ class RegisterForm(Form):
 # User Log In Form
 class LoginForm(Form):
     username = StringField("Username")
-    password = StringField("Password")
+    password = PasswordField("Password")
 
 @app.route("/")
 def home():
