@@ -3,8 +3,25 @@ from flask_mysqldb import MySQL
 from wtforms import Form,StringField,TextAreaField,PasswordField,validators
 from passlib.hash import sha256_crypt
 from functools import wraps 
+from flask_sqlalchemy import SQLAlchemy
 app = Flask(__name__)
 app.secret_key = "final"
+app.config["DEBUG"] = True
+
+SQLALCHEMY_DATABASE_URI = "mysql+mysqlconnector://{username}:{password}@{hostname}/{databasename}".format(
+    username="Fatihinal",
+    password="finaldatabase1",
+    hostname="Fatihinal.mysql.pythonanywhere-services.com",
+    databasename="Fatihinal$finaldatabase",
+)
+
+app.config["SQLALCHEMY_DATABASE_URI"] = SQLALCHEMY_DATABASE_URI
+app.config["SQLALCHEMY_POOL_RECYCLE"] = 299
+app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
+
+db = SQLAlchemy(app)
+
+"""
 app.config["MYSQL_HOST"] = "localhost" # If this programme is going to run on another host(cloud or rental host), 
                                        #its adress has to written here
 app.config["MYSQL_USER"]        = "root" # Default value
@@ -12,7 +29,7 @@ app.config["MYSQL_PASWORD"]     = ""     # Default value
 app.config["MYSQL_DB"]          = "final_database"
 app.config["MYSQL_CURSORCLASS"] = "DictCursor"
 mysql = MySQL(app) # Sets relationship btw MySQL & Flask
-
+"""
 # User log in decorator
 def login_required(f):
     @wraps(f)
