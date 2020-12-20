@@ -2,8 +2,7 @@ from flask import Flask,render_template,flash,redirect,url_for,session,logging,r
 from flask_mysqldb import MySQL
 from wtforms import Form,StringField,TextAreaField,PasswordField,validators
 from passlib.hash import sha256_crypt
-from functools import wraps 
-from flask_sqlalchemy import SQLAlchemy
+from functools import wraps
 
 app = Flask(__name__)
 app.secret_key = "final"
@@ -11,7 +10,7 @@ app.secret_key = "final"
 app.config["MYSQL_HOST"] = "Fatihinal.mysql.pythonanywhere-services.com" # If this programme is going to run on another host(cloud or rental host), 
                                        #its adress has to written here
 app.config["MYSQL_USER"]        = "Fatihinal" # Default value
-app.config["MYSQL_PASWORD"]     = "12345678"     # Default value
+app.config["MYSQL_PASWORD"]     = "finaldatabase1"     # Default value
 app.config["MYSQL_DB"]          = "Fatihinal$finaldatabase"
 app.config["MYSQL_CURSORCLASS"] = "DictCursor"
 mysql = MySQL(app) # Sets relationship btw MySQL & Flask
