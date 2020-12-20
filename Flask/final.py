@@ -7,31 +7,15 @@ from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
 app.secret_key = "final"
-app.config["DEBUG"] = True
 
-SQLALCHEMY_DATABASE_URI = "mysql+mysqlconnector://{username}:{password}@{hostname}/{databasename}".format(
-    username="Fatihinal",
-    password="finaldatabase1",
-    hostname="Fatihinal.mysql.pythonanywhere-services.com",
-    databasename="Fatihinal$finaldatabase",
-)
-
-app.config["SQLALCHEMY_DATABASE_URI"] = SQLALCHEMY_DATABASE_URI
-app.config["SQLALCHEMY_POOL_RECYCLE"] = 299
-app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
-
-# In document it was "db = SQLAlchemy(app) but I'm changing it to yield my code"
-mysql = SQLAlchemy(app)
-
-"""
-app.config["MYSQL_HOST"] = "localhost" # If this programme is going to run on another host(cloud or rental host), 
+app.config["MYSQL_HOST"] = "Fatihinal.mysql.pythonanywhere-services.com" # If this programme is going to run on another host(cloud or rental host), 
                                        #its adress has to written here
-app.config["MYSQL_USER"]        = "root" # Default value
-app.config["MYSQL_PASWORD"]     = ""     # Default value
-app.config["MYSQL_DB"]          = "final_database"
+app.config["MYSQL_USER"]        = "Fatihinal" # Default value
+app.config["MYSQL_PASWORD"]     = "finaldatabase1"     # Default value
+app.config["MYSQL_DB"]          = "Fatihinal$finaldatabase"
 app.config["MYSQL_CURSORCLASS"] = "DictCursor"
 mysql = MySQL(app) # Sets relationship btw MySQL & Flask
-"""
+
 # User log in decorator
 def login_required(f):
     @wraps(f)
