@@ -11,7 +11,7 @@ app.secret_key = "final"
 app.config["MYSQL_HOST"] = "Fatihinal.mysql.pythonanywhere-services.com" # If this programme is going to run on another host(cloud or rental host), 
                                        #its adress has to written here
 app.config["MYSQL_USER"]        = "Fatihinal" # Default value
-app.config["MYSQL_PASWORD"]     = "finaldatabase1"     # Default value
+app.config["MYSQL_PASWORD"]     = "12345678"     # Default value
 app.config["MYSQL_DB"]          = "Fatihinal$finaldatabase"
 app.config["MYSQL_CURSORCLASS"] = "DictCursor"
 mysql = MySQL(app) # Sets relationship btw MySQL & Flask
